@@ -65,7 +65,7 @@
         #newsbar {
              background-color:#005CD6;
              width:100%;
-             height:162px;
+             height:119px;
              color:white;
         }
         #newsbar p {
@@ -104,12 +104,8 @@
         #mainbodydiv {
             background-color:#00cc00;
             height:10000px;
-            opacity:0.25;
-            margin:-0px 0px 0 28px;
-            padding:15px 30px 20px 0; 
-           
+
         }
         .newsreel {
             float:left;
-            
        }

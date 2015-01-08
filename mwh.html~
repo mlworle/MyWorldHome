@@ -45,12 +45,7 @@
              <div id="continentmenu" >
                 <ul >
                  <li>News
-                     <ul>
-                     <li><a href="http://www.bbc.com/news/" target="_blank">BBC</a></li>
-                     <li><a href="http://www.cnn.com/" target="_blank">CNN</a></li>
-                     <li><a href="http://america.aljazeera.com/" target="_blank" >AlJazeera</a></li>
-                     <li><a href="http://www.npr.org/" target="_blank">NPR</a></li>
-                     </ul></li>
+                  </li>
                   <li>US & Canada</li>
                   <li>Latin America</li>
                   <li>South America</li>
